@@ -1,2 +1,3 @@
 # odin-recipes
-my first project (odin-recipes)
+My first project (odin-recipes)
+Author: Anju kumari
