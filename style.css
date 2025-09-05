@@ -1,0 +1,49 @@
+nav {
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+nav a:hover {
+    color: #ff9800; 
+}
+.hero {
+    background: url('your-chicken-image.jpg') center/cover no-repeat;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-size: 36px;
+    font-weight: bold;
+}
+.tagline {
+    background-color: #001f80;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    width: 80%;
+    font-size: 20px;
+}
+.logo {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+}
+img{
+    width: 800px;height:300px;}
+    
+
